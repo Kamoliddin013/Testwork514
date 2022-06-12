@@ -1,0 +1,20 @@
+.upload-kamol-image .kamol-upl img {
+  width: 200px;
+  height: auto;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.upload-kamol-image .upload-kamol-image {
+  margin: 10px;
+}
+.span_save_product_changes span{
+  margin-right: 5px;
+}
+.span_save_product_changes .update_changes{
+  background-color: green;
+  color: white;
+}
+.span_save_product_changes .clear_changes{
+  background-color: indianred;
+  color: white;
+}
